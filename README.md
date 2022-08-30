@@ -1,4 +1,4 @@
-# weather-application
+# Weather-Application
 This website tells the real time weather of the place. It is made using HTML, CSS, JavaScript and Weather Stack API
 # Output
 ![image](https://user-images.githubusercontent.com/91279248/187418709-7c3fa156-c40f-40f8-bc88-275392425558.png)
